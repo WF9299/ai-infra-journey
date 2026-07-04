@@ -1,0 +1,7 @@
+torch version: 2.12.1+cu132
+torchvision version: 0.27.1+cu132
+cuda available: True
+torch cuda version: 13.2
+device count: 1
+device name: NVIDIA GeForce RTX 5060 Ti
+cuda tensor test: success

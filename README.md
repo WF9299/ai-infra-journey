@@ -129,8 +129,8 @@ Benchmark / Profiling System
 - [x] Python virtual environment created
 - [x] PyTorch CUDA installed
 - [x] CUDA tensor test passed
-- [ ] Environment documentation completed
-- [ ] Git repository initialized
+- [x] Environment documentation completed
+- [x] Git repository initialized
 - [ ] Stage 1 project skeleton created
 
 ## Repository Principles
